@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=html)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
+![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=PHP)
 
 ##### Some of the technologies I have worked with
 
@@ -44,8 +45,8 @@ Here are some ideas to get you started:
 
 
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+##### Fun fact: Progress over perfection ✨
+
 
 
 
