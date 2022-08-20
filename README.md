@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ##### Hi, I'm Rasha ✨
 
-- 🎓Recent computer science graduate from IAU (Imam Abdulrahman Bin Faisal University) in Dammam 
+- 🎓Recent computer science graduate from IAU (Imam Abdulrahman Bin Faisal University) in Dammam.
+
+- I am a software developer, eager to create many applications to improve learning and experience in this field and help new developers find the right path, I have enjoyed designing smart heater app for andriod application, and very excited to learn other application programming languages.
+
 - 🔭Interested in the field of scientific research and the Internet of things, where I completed the study of the Smart Heater project, and the research was approved in of the International Conference on Artificial Intelligence and Computer Vision (AICV2021) (https://link.springer.com/chapter/10.1007/978-3-030-76346-6_14)
 
 
