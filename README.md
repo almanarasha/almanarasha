@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **almanarasha/almanarasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ##### Hi, I'm Rasha ✨
 
 - 🎓Recent computer science graduate from IAU (Imam Abdulrahman Bin Faisal University) in Dammam 
+- 🔭Interested in the field of scientific research and the Internet of things, where I completed the study of the Smart Heater project, and the research was approved in of the International Conference on Artificial Intelligence and Computer Vision (AICV2021) (https://link.springer.com/chapter/10.1007/978-3-030-76346-6_14)
 
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/almanarasha)
@@ -29,11 +30,11 @@ Here are some ideas to get you started:
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=html)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
